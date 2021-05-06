@@ -1,0 +1,2 @@
+AVERAGE_POOLING = False
+DISCRETE_BETA = False
